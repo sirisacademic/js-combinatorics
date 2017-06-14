@@ -1,0 +1,23 @@
+{
+  "name": "js-combinatorics",
+  "description": "Simple combinatorics like power set, combination, and permutation in JavaScript",
+  "main": "combinatorics.js",
+  "authors": [
+    "Dan Kogai"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Combinatorics",
+    "combination",
+    "permutation"
+  ],
+  "homepage": "https://github.com/sirisacademic/js-combinatorics",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
